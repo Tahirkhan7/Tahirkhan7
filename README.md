@@ -53,30 +53,7 @@ Here are some ideas to get you started:
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
-&emsp; 
-	<a href="https://react.dev/" target="_blank">
-    <img alt="ReactJS" src="https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://nextjs.org/" target="_blank">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://nestjs.com/" target="_blank">
-    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-e0234e?logo=nestjs&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://ethereum.org/en/developers/docs/intro-to-ethereum/" target="_blank">
-    <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-121D33?logo=bitcoin&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://soliditylang.org/" target="_blank">
-    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white">
-  </a>
+&emsp;
 </p>
 
 ### 👉 Frameworks
@@ -87,6 +64,10 @@ Here are some ideas to get you started:
 &emsp;&ensp;![NodeJS](https://img.shields.io/badge/NodeJS-6DB33F.svg?style=flat&logo=node&logoColor=white)
 &emsp;&ensp;![GraphQL](https://img.shields.io/badge/GraphQL-6DB33F.svg?style=flat&logo=graphql&logoColor=white)
 &emsp;&ensp;![Flutter](https://img.shields.io/badge/Flutter-3c3cce?style=flat&logo=flutter&logoColor=white)
+&emsp;&ensp;![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+&emsp;&ensp;![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=flat&logo=nestjs&logoColor=white)
+&emsp;&ensp;![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=bitcoin&logoColor=white)
+&emsp;&ensp;![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 </p>
 
 ### 👉 Databases & Cloud Hosting
