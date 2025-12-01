@@ -95,10 +95,10 @@ Here are some ideas to get you started:
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salamancacm&show_icons=true&locale=en&theme=dark" alt="salamancacm" height="192px"/></a>
+    <a href="https://github.com/tahirkhan7"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tahirkhan7&show_icons=true&locale=en&theme=dark" alt="tahirkhan7" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salamancacm&show_icons=true&locale=en&layout=compact&theme=dark" alt="salamancacm" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahirkhan7&show_icons=true&locale=en&layout=compact&theme=dark" alt="tahirkhan7" height="192px"/>
 	</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
