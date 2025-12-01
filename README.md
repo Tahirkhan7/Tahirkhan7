@@ -81,10 +81,6 @@ Here are some ideas to get you started:
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
-  &emsp;
-  <a href="https://railway.app"><img alt="Railway" src="https://img.shields.io/badge/Railway%20-%23430098.svg?logo=railway&logoColor=white"></a>  
-  &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
  &emsp; 
     <a href="https://cloud.google.com/"><img alt="GCP" src ="https://img.shields.io/badge/GCP-de230d?style=flate&logo=google-cloud&logoColor=white"></a>
