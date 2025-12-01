@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 🧩 My Portfolio
 
-- 🛠️ **[GenAPI](https://tahirkhan7.vercel.app)**
+- 🛠️ **[Portfolio](https://tahirkhan7.vercel.app)**
 
 ## 🛠️ My Skills
 
@@ -54,6 +54,29 @@ Here are some ideas to get you started:
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
 &emsp; 
+	<a href="https://react.dev/" target="_blank">
+    <img alt="ReactJS" src="https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=black">
+  </a>
+  &emsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://nestjs.com/" target="_blank">
+    <img alt="NestJS" src="https://img.shields.io/badge/NestJS-e0234e?logo=nestjs&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://ethereum.org/en/developers/docs/intro-to-ethereum/" target="_blank">
+    <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-121D33?logo=bitcoin&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://soliditylang.org/" target="_blank">
+    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Frameworks
