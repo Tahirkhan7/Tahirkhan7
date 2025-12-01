@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi , I'm Tahir Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu-Australia-VIC-WA-NT-Hand+Dots&pause=1000&color=0EF723&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+development;Frontend+development;Mobile+Development;Curious+guy" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu-Australia-VIC-WA-NT-Hand+Dots&pause=1000&color=0EF723&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+development;Frontend+development;Blockchain+development;Mobile+Development;Curious+guy" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <h4 align="center">I am a Software Engineer. I like to Code, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. Passionate developer with a love for problem-solving and creating innovative solutions. Experienced in various programming languages, blockchain and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
