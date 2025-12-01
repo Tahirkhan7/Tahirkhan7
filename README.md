@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <p align="left">
 &emsp;&ensp;<img src="https://img.shields.io/badge/ReactJS-2BABE2?style=flat&logo=react&logoColor=white" alt="ReactJS"/>
 &emsp;&ensp;<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white" alt="SpringBoot"/>
-&emsp;&ensp;<img src="https://img.shields.io/badge/Node.js-6DB33F?style=flat&logo=node-dot-js&logoColor=white" alt="NodeJS"/>
+&emsp;&ensp;<img src="https://img.shields.io/badge/Node.js-3C873A?logo=node.js&logoColor=white" alt="NodeJS"/>
 &emsp;&ensp;<img src="https://img.shields.io/badge/React%20Native-2BABE2?style=flat&logo=react&logoColor=white" alt="ReactNative"/>
 &emsp;&ensp;<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="NextJS"/>
 &emsp;&ensp;<img src="https://img.shields.io/badge/NestJS-e0234e?style=flat&logo=nestjs&logoColor=white" alt="NestJS"/>
