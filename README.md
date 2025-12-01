@@ -64,8 +64,6 @@ Here are some ideas to get you started:
 &emsp;&ensp;![ReactNative](https://img.shields.io/badge/React%20Native-2BABE2?style=flat&logo=react&logoColor=white)
 &emsp;&ensp;![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 &emsp;&ensp;![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=flat&logo=nestjs&logoColor=white)
-&emsp;&ensp;![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=bitcoin&logoColor=white)
-&emsp;&ensp;![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 </p>
 
 
