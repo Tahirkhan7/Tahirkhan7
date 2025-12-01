@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-	<a href="https://github.com/salamancacm"><img alt="Carlos's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=salamancacm&custom_title=Carlos%20Salamanca's%20Contribution%20Graph&theme=react-dark" /></a>
+	<a href="https://github.com/tahirkhan7"><img alt="Tahir's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tahirkhan7&custom_title=Tahir%20Khan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -117,18 +117,14 @@ Here are some ideas to get you started:
 
 ##
 <p align="center">If any of my work helped you, feel free of...</p>
-<p align="center"><a href="https://www.buymeacoffee.com/salamancac3" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<p align="center"><a href="https://www.buymeacoffee.com/tahirkhan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
 
 ## 🙋‍♂️ Let's Connect
 
 <p align="center">
-  <!--a href="https://salamancacm.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a-->
-  <a href="https://linkedin.com/in/salamancacm"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="mailto:salamancacmcol@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/salamancacm"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<!--a href="https://www.facebook.com/salamancacm"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/salamancacm><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a-->
-	
+  <a href="https://linkedin.com/in/tahirkhan7"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:mahitk98@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/tahirkhan7"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 </p>
 
