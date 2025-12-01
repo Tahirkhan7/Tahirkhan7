@@ -67,7 +67,9 @@ Here are some ideas to get you started:
 &emsp;&ensp;![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=flat&logo=nestjs&logoColor=white)
 &emsp;&ensp;![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=bitcoin&logoColor=white)
 &emsp;&ensp;![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+
 </p>
+
 
 ### 👉 Databases & Cloud Hosting
 
